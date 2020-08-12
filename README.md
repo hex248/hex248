@@ -1,4 +1,4 @@
-### __Hex248__
+### **Hex248**
 
 <!--
 **hex248/hex248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
