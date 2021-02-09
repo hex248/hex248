@@ -1,8 +1,8 @@
 ### **Hex248**
 
-- I’m currently working on a robot for the [AnimeGame](https://www.github.com/hex248/AnimeGame) which you play against the computer, naming anime.
-- I'm also currently working on a murder mystery party game called [deception](https://www.github.com/hex248/deception) with [zyrex](https://github.com/zy-rex).
-- I’m currently learning HTML, C# and improving my Python skills. I am also studying Computer Science at an English GCSE level.
+- I’m currently working on a computercraft cinema using lua and js websockets.
+- I'm also currently working on a murder mystery party game called [distro](https://www.github.com/DISTRO-TEAM/DISTRO) with others.
+- I’m currently learning JS and improving my Python and C# skills. I am also studying Computer Science at an English GCSE level.
 - I’m looking to collaborate on tkinter related python projects.
-- I’m looking for help with string similarity for the [AnimeGame](https://www.github.com/hex248/AnimeGame).
+- I’m looking for help with computercraft imaging.
 - Email: 04oliverbryan@gmail.com
